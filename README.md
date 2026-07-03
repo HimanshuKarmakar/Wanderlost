@@ -131,7 +131,7 @@ A 3D scatter (Spend × Revenue × Session Duration) gives a complementary view:
 
 [![3D Segment Map](3d-persona-map.png)](https://YOUR-PAGES-URL/3d-persona-map.html)
 
-**▶ [Open the interactive 3D map](https://YOUR-PAGES-URL/3d-persona-map.html)** — rotate, zoom, and hover the points in your browser.
+**▶ [Open the interactive 3D map]( https://himanshukarmakar.github.io/Wanderlost/3d-persona-map.html)** — rotate, zoom, and hover the points in your browser.
 
 ---
 
