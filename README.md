@@ -129,9 +129,9 @@ Frequent Wellness Buyers stand out on spend, revenue, and purchases; the two lar
 
 A 3D scatter (Spend × Revenue × Session Duration) gives a complementary view:
 
-![3D Segment Map](3d-persona-map.png)
+[![3D Segment Map](3d-persona-map.png)](https://YOUR-PAGES-URL/3d-persona-map.html)
 
-These render statically on GitHub; open the notebook in Colab to explore them interactively.
+**▶ [Open the interactive 3D map](https://YOUR-PAGES-URL/3d-persona-map.html)** — rotate, zoom, and hover the points in your browser.
 
 ---
 
