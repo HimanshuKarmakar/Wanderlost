@@ -140,7 +140,6 @@ These render statically on GitHub; open the notebook in Colab to explore them in
 An interactive Power BI dashboard (shown at the top of this README) accompanies the analysis, with slicers for segment, month, and platform; KPI cards (ROAS, CTR, average session duration, conversion rate); and revenue and conversion breakdowns by platform and device.
 
 - **File:** [`WanderLost.pbix`](WanderLost.pbix) — open in Power BI Desktop to interact with the slicers.
-- **Live version:** *(optional)* publish via Power BI Service → "Publish to web", then add the public link here.
 
 ---
 
