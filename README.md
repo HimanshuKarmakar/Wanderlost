@@ -213,6 +213,6 @@ wanderlost-persona-segmentation/
 
 ## Author
 
-**Himanshu Karmakar**  ·  [GitHub](https://github.com/HimanshuKarmakar)  ·  [Portfolio](https://rulersstudio.com)
+**Himanshu Karmakar**  ·  [GitHub](https://github.com/HimanshuKarmakar)  ·  [Portfolio] (https://himanshukarmakar.github.io/Wanderlost/))
 
 Released under the MIT License.
